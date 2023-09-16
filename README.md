@@ -2,6 +2,6 @@
 
 OOP programovanie v pythone
 
-Zložka sa sklada z viacerych projektov vdaka ktorym som pocohpil zakladne funckie a taktiež porozumel funkcionalytam ktore python v OOP podporuje.\
-Počas programovania som použival tool -  PyCharm 2022.2.3 (Community Edition)\
-Projkety su porozdelvoane do foldrov v ktorom každy folder obsahuje README ku danemu projektu a taktiež sa tam nachadza WORD ktory ma za ulohu vizualne predstavenie projektu\
+Zložka sa skladá z viacerých projektov, vďaka ktorým som pochopil základné funkcie a taktiež porozumel funkcionalitám, ktoré python v OOP podporuje.\
+Počas programovania som používal tool - PyCharm 2022.2.3 (Community Edition).
+Projkety sú porozdelvoane do foldrov, v ktorom každý folder obsahuje README ku danému projektu a taktiež sa tam nachádza WORD, ktorý ma za úlohu vizuálne predstavenie projektu.
